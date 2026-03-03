@@ -2,7 +2,7 @@ function Home() {
     return (
         <div>
             <h1>Seja bem vindo ao site</h1>
-            <p>Essa aqui é a página principal do projeto.</p>
+            <p>Você é muito importante pra mim, te amo muito!</p>
         </div>
     );
 
